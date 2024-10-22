@@ -17,7 +17,7 @@ int main()
 
     printf("\nTotal Marks = %.2f\n", sum);
     printf("Average Marks = %.2f\n", ave);
-    printf("Percentage = %.2f%%\n", per);
+    printf("Percentage = %.2f%% \n", per);
 
     return 0;
 }
